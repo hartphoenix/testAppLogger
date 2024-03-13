@@ -1,0 +1,42 @@
+body {
+    background: black;
+    background-size: cover;
+    font-family: -apple-system, Courier New, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: -apple-system, Courier New, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    border: solid white 2px;
+    border-width: 1px;
+}
+
+#increment-btn {
+    background: teal;
+}
+
+#save-btn {
+    background: orangered;
+}
+
